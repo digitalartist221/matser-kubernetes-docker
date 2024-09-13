@@ -1,24 +1,4 @@
 
-# République du Sénégal
-
-## Un Peuple – Un But – Une Foi
-
-**Ministère de l’Enseignement Supérieur et de la Recherche**
-
-### Université Alioune DIOP de Bambey  
-**Centre des Ressources de Dakar**
-
-### Master 1  
-**Data Science et Génie logiciel**
-
-## PROJET DE MÉMOIRE
-
-**Professeur :** Malick Mbengue  
-**Présenté par :** M. Abou Bacre SALL
-
-**Année académique 2023-2024**
-
----
 
 ## Table des matières
 
